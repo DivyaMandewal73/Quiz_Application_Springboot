@@ -1,7 +1,6 @@
 # 🎯 Quiz Application - Spring Boot
 
-<div align="center">
-  <img src="images/logo.png" alt="Quiz Application Logo" width="200"/>
+
   
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat&logo=springboot)
   ![Java](https://img.shields.io/badge/Java-17+-orange?style=flat&logo=java)
