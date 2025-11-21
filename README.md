@@ -6,7 +6,6 @@
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat&logo=springboot)
   ![Java](https://img.shields.io/badge/Java-17+-orange?style=flat&logo=java)
   ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat&logo=mysql)
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   <p>A robust backend REST API for managing dynamic quizzes — built with Spring Boot, JPA/Hibernate, and MySQL.</p>
 </div>
@@ -19,13 +18,11 @@
 - [Technology Stack](#-technology-stack)
 - [Features](#-features)
 - [Architecture](#-architecture)
-- [Screenshots](#-screenshots)
 - [API Endpoints](#-api-endpoints)
 - [Installation & Setup](#-installation--setup)
-- [Database Schema](#-database-schema)
-- [Usage Examples](#-usage-examples)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
+- [Credits & Inspiration](#-credits--inspiration)
 - [Author](#-author)
 
 ---
@@ -171,7 +168,6 @@ Import the provided Postman collection or test endpoints manually.
 - ⚛️ **React Frontend** — Build a responsive UI for quiz-taking
 - ☁️ **Cloud Deployment** — Deploy to AWS, Render, or Railway
 - 📊 **Analytics Dashboard** — Track user performance and quiz statistics
-- 🌍 **Multi-language Support** — Internationalization (i18n)
 
 
 
@@ -191,14 +187,18 @@ Contributions are welcome! Follow these steps:
 
 ## 🙌 Credits & Inspiration
 
-This project is built as part of learning **Java**, **Spring Boot**, and **REST API development**. Inspired by real-world quiz platforms like Kahoot and Quizlet, and structured for future enhancements like microservices architecture and enterprise security patterns.
+This project is built as part of learning **Java**, **Spring Boot**, and **REST API development**.
+**Learning Resources:**
+- Followed tutorial by [Telusko](https://www.youtube.com/@Telusko) on Spring Boot Quiz Application
+- Practical implementation of RESTful APIs with JPA/Hibernate
+
+The project is structured for future enhancements like microservices architecture, JWT authentication, and Docker containerization.
 
 ---
 
 ## 👩‍💻 Author
 
-<div align="center">
-  <img src="images/author-avatar.png" alt="Divya Mandewal" width="150" style="border-radius: 50%;"/>
+
   
   **Divya Sanjay Mandewal**  
   💼 Aspiring Software Developer | Java | Spring Boot | React | SQL
@@ -210,11 +210,6 @@ This project is built as part of learning **Java**, **Spring Boot**, and **REST 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## ⭐ Show Your Support
 
